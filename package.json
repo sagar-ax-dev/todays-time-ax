@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/powderham/shared-react-component-example.git"
+        "url": "git+https://github.com/sagar-ax-dev/todays-time-ax"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/powderham/shared-react-component-example/issues"
+        "url": "https://github.com/sagar-ax-dev/todays-time-ax"
     },
-    "homepage": "https://github.com/powderham/shared-react-component-example#readme",
+    "homepage": "https://github.com/sagar-ax-dev/todays-time-ax#readme",
     "devDependencies": {
         "babel-cli": "^6.26.0",
         "babel-preset-env": "^1.7.0",
